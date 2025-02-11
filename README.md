@@ -10,6 +10,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sparky1505/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Sparky1505/Leetcode/tree/master/0283-move-zeroes) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Sparky1505/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | ------- |
 | [0009-palindrome-number](https://github.com/Sparky1505/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sparky1505/Leetcode/tree/master/0013-roman-to-integer) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Sparky1505/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
