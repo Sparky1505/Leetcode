@@ -32,6 +32,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0058-length-of-last-word](https://github.com/Sparky1505/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Sparky1505/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sparky1505/Leetcode/tree/master/0389-find-the-difference) |
+| [0742-to-lower-case](https://github.com/Sparky1505/Leetcode/tree/master/0742-to-lower-case) |
 ## Two Pointers
 |  |
 | ------- |
