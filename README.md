@@ -13,6 +13,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0169-majority-element](https://github.com/Sparky1505/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Sparky1505/Leetcode/tree/master/0283-move-zeroes) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sparky1505/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2048-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sparky1505/Leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
