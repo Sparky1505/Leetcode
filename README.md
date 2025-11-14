@@ -12,6 +12,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sparky1505/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sparky1505/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Sparky1505/Leetcode/tree/master/0283-move-zeroes) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sparky1505/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Sparky1505/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Sparky1505/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -26,6 +27,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0169-majority-element](https://github.com/Sparky1505/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sparky1505/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sparky1505/Leetcode/tree/master/0389-find-the-difference) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sparky1505/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -65,6 +67,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0169-majority-element](https://github.com/Sparky1505/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sparky1505/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sparky1505/Leetcode/tree/master/0389-find-the-difference) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +86,8 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Sparky1505/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
