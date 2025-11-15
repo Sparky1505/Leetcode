@@ -51,6 +51,9 @@ class Solution {
         nums[zerolen]=0;
         zerolen++;
     }
+
+
+    // above -> tried with hint 2 and used two while, one for zeros and one for non zeros, need to optimize it but works
    
     
 
