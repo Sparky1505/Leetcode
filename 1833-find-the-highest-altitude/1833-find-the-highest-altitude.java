@@ -3,7 +3,7 @@ class Solution {
 
 
         int max =0;
-        int start=0;
+       // int start=0;
 
 
         int i =0;
