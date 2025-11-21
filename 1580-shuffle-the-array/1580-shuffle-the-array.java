@@ -3,17 +3,14 @@ class Solution {
 
 
 
-        int index=0;
+       // int index=0;
         int[] ans = new int[nums.length];
+
         for(int i =0;i<n;i++){
-            ans[index]=nums[i];
-            index+=2;
+            ans[2*i]=nums[i];
+            ans[2*i+1]=nums[i+n];
         }
-        int index1=1;
-        for(int i =n;i<nums.length;i++){
-            ans[index1]=nums[i];
-            index1+=2;
-        }
+        
 
         return ans;
 
