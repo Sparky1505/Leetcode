@@ -4,15 +4,12 @@ class Solution {
             return false;
         }
 
-           Set set = new HashSet<>();
-           for(int i =0;i<sentence.length();i++){
-            set.add(sentence.charAt(i));
+           for(char c ='a';c<='z';c++){
+            if(!sentence.contains(String.valueOf(c))){
+                return false;
+            }
            }
-           if(set.size()==26){
-            return true;
-           }
-           return false;
-
+           return true;
         
         
     }
