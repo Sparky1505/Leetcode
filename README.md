@@ -14,6 +14,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0283-move-zeroes](https://github.com/Sparky1505/Leetcode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Sparky1505/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sparky1505/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Sparky1505/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Sparky1505/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -85,6 +86,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Sparky1505/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sparky1505/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Matrix
