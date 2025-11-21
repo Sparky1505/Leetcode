@@ -19,6 +19,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [1580-shuffle-the-array](https://github.com/Sparky1505/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Sparky1505/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Sparky1505/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/Sparky1505/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sparky1505/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sparky1505/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -49,6 +50,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0242-valid-anagram](https://github.com/Sparky1505/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sparky1505/Leetcode/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/Sparky1505/Leetcode/tree/master/0742-to-lower-case) |
+| [1899-count-items-matching-a-rule](https://github.com/Sparky1505/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sparky1505/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
