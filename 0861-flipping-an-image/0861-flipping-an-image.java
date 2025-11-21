@@ -2,37 +2,45 @@ class Solution {
     public int[][] flipAndInvertImage(int[][] image) {
 
 
-      
 
+        colSwap(image);
+
+        invertZeros(image);
 
         
-        for (int i =0;i<image.length;i++){
-            //for(int j=0;j<image[i].length;j++){
-
-             int start =0;
-        int end = image.length-1;
-        while(start<end){
-                int temp = image[i][start];
-        image[i][start]= image[i][end];
-        image[i][end]= temp;
-        start++;
-        end--;
-
+           return image;
         }
-                
-           // }
-        }
-        for(int i =0;i<image.length;i++){
-            for(int j=0;j<image[i].length;j++){
-                if(image[i][j]==0){
-                    image[i][j]=1;
+
+
+         static void colSwap(int[][] image){
+          for(int i=0;i<image.length;i++){
+            int start=0;
+            int end=image[i].length-1;
+            while(start<end){
+                int temp= image[i][start];
+                image[i][start]= image[i][end];
+                image[i][end]=temp;
+                start++;
+                end--;
+            }
+           }
+         }
+         static void invertZeros(int[][] flipZeros) {
+		 
+		for(int[] i: flipZeros){
+
+            for(int j=0;j<i.length;j++){
+                int val = i[j];
+                if(val==0){
+                    i[j]=1;
                 }else{
-                    image[i][j]=0;
+                    i[j]=0;
                 }
             }
-        }
-        
 
-    return image;
         }
+		 
+	 }
+
+
 }
