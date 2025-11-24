@@ -53,6 +53,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0742-to-lower-case](https://github.com/Sparky1505/Leetcode/tree/master/0742-to-lower-case) |
 | [1899-count-items-matching-a-rule](https://github.com/Sparky1505/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sparky1505/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3110-score-of-a-string](https://github.com/Sparky1505/Leetcode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
