@@ -25,6 +25,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sparky1505/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sparky1505/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2678-number-of-senior-citizens](https://github.com/Sparky1505/Leetcode/tree/master/2678-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [1899-count-items-matching-a-rule](https://github.com/Sparky1505/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sparky1505/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2678-number-of-senior-citizens](https://github.com/Sparky1505/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/Sparky1505/Leetcode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
