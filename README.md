@@ -51,6 +51,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0058-length-of-last-word](https://github.com/Sparky1505/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Sparky1505/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sparky1505/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/Sparky1505/Leetcode/tree/master/0742-to-lower-case) |
 | [1899-count-items-matching-a-rule](https://github.com/Sparky1505/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sparky1505/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -63,6 +64,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sparky1505/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sparky1505/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Sparky1505/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
 ## String Matching
 |  |
@@ -109,4 +111,8 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Sparky1505/Leetcode/tree/master/1833-find-the-highest-altitude) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
