@@ -11,6 +11,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0027-remove-element](https://github.com/Sparky1505/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sparky1505/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sparky1505/Leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Sparky1505/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sparky1505/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sparky1505/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
@@ -115,6 +116,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sparky1505/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Sparky1505/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
