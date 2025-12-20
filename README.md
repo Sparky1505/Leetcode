@@ -32,6 +32,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [2048-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sparky1505/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2678-number-of-senior-citizens](https://github.com/Sparky1505/Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2942-find-words-containing-character](https://github.com/Sparky1505/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sparky1505/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Sparky1505/Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2942-find-words-containing-character](https://github.com/Sparky1505/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Sparky1505/Leetcode/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
