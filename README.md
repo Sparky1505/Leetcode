@@ -21,6 +21,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sparky1505/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1470-shuffle-the-array](https://github.com/Sparky1505/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sparky1505/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sparky1505/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
