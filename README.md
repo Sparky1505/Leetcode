@@ -35,6 +35,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [1791-richest-customer-wealth](https://github.com/Sparky1505/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Sparky1505/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/Sparky1505/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1920-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sparky1505/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sparky1505/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -130,6 +131,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | ------- |
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sparky1505/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sparky1505/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sparky1505/Leetcode/tree/master/2058-concatenation-of-array) |
