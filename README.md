@@ -24,6 +24,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sparky1505/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Sparky1505/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Sparky1505/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -49,6 +50,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0242-valid-anagram](https://github.com/Sparky1505/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sparky1505/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sparky1505/Leetcode/tree/master/0389-find-the-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sparky1505/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sparky1505/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -111,6 +113,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0242-valid-anagram](https://github.com/Sparky1505/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sparky1505/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sparky1505/Leetcode/tree/master/0389-find-the-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -137,6 +140,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
