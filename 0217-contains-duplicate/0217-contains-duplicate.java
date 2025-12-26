@@ -1,21 +1,21 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-    
 
-    HashMap<Integer,Integer> map = new HashMap<>();
-    for(int i =0;i<nums.length;i++){
-        int num = nums[i];
-        map.put(num,map.getOrDefault(num,0)+1);
-    }
+        int n = nums.length;
 
-    for(int num: map.values()){
-        if(num>1){
-            return true;
+        HashMap<Integer,Integer> map1 = new HashMap<>();
+        int count=0;
+        for(int i =0;i<n;i++){
+            int num = nums[i];
+            map1.put(num,map1.getOrDefault(num,0)+1);
         }
-    }
-    return false;
 
+        for(int num: map1.values()){
+            if(num>1){
+                return true;
+            }
+        }
+        return false;
         
     }
-
 }
