@@ -11,6 +11,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0027-remove-element](https://github.com/Sparky1505/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sparky1505/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sparky1505/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sparky1505/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -173,6 +174,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Sparky1505/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sparky1505/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sparky1505/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Sparky1505/Leetcode/tree/master/0704-binary-search) |
