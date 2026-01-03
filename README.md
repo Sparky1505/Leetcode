@@ -22,6 +22,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0283-move-zeroes](https://github.com/Sparky1505/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sparky1505/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sparky1505/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Sparky1505/Leetcode/tree/master/0704-binary-search) |
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sparky1505/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -174,4 +175,5 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Sparky1505/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sparky1505/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Sparky1505/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
