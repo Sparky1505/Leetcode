@@ -1,7 +1,6 @@
 class Solution {
     public int sumFourDivisors(int[] nums) {
-
-        int n = nums.length;
+          int n = nums.length;
 
      
        int result=0;
@@ -29,5 +28,7 @@ class Solution {
                 }
         }
         return result;
+
+      
     }
 }
