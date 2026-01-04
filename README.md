@@ -29,6 +29,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sparky1505/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1390-four-divisors](https://github.com/Sparky1505/Leetcode/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/Sparky1505/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sparky1505/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -71,6 +72,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0189-rotate-array](https://github.com/Sparky1505/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sparky1505/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1390-four-divisors](https://github.com/Sparky1505/Leetcode/tree/master/1390-four-divisors) |
 | [1635-number-of-good-pairs](https://github.com/Sparky1505/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sparky1505/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## String
