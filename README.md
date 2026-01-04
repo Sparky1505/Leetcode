@@ -72,6 +72,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0189-rotate-array](https://github.com/Sparky1505/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sparky1505/Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/Sparky1505/Leetcode/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/Sparky1505/Leetcode/tree/master/1390-four-divisors) |
 | [1635-number-of-good-pairs](https://github.com/Sparky1505/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sparky1505/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -170,6 +171,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Sparky1505/Leetcode/tree/master/1323-maximum-69-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
