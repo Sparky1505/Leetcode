@@ -1,11 +1,11 @@
 class Solution {
     public int sumFourDivisors(int[] nums) {
 
-
         int n = nums.length;
-        int result=0;
 
-        for(int i =0;i<n;i++){
+     
+       int result=0;
+         for(int i =0;i<n;i++){
             int sum =0;
             int count=0;
             for(int j =1;j*j<=nums[i];j++){
@@ -29,6 +29,5 @@ class Solution {
                 }
         }
         return result;
-        
     }
 }
