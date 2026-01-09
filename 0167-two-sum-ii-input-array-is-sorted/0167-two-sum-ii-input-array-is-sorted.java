@@ -3,24 +3,22 @@ class Solution {
 
         int n = numbers.length;
 
-        int left=0;
-        int right = n-1;
         int[] ans = new int[2];
+
+        int left=0;
+        int right =n-1;
         while(left<right){
 
             int sum = numbers[left]+numbers[right];
-            if(sum==target){
+            if(target==sum){
                 ans[0]=left+1;
-                ans[1]= right+1;
-               break;
-            }  
-            else if(sum<target){
+                ans[1]=right+1;
+                return ans;
+            }else if(sum<target){
                 left++;
-            }
-            else{
+            }else{
                 right--;
             }
-          //break;
         }
         return ans;
         
