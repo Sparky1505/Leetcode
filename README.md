@@ -27,6 +27,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0704-binary-search](https://github.com/Sparky1505/Leetcode/tree/master/0704-binary-search) |
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sparky1505/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sparky1505/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -113,6 +114,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0392-is-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Sparky1505/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String Matching
 |  |
@@ -134,6 +136,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0268-missing-number](https://github.com/Sparky1505/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sparky1505/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Sparky1505/Leetcode/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
