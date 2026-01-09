@@ -87,6 +87,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0125-valid-palindrome](https://github.com/Sparky1505/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sparky1505/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sparky1505/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sparky1505/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sparky1505/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Sparky1505/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -110,6 +111,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0189-rotate-array](https://github.com/Sparky1505/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sparky1505/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sparky1505/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sparky1505/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sparky1505/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Sparky1505/Leetcode/tree/master/0680-valid-palindrome-ii) |
