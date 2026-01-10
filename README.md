@@ -15,6 +15,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0066-plus-one](https://github.com/Sparky1505/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sparky1505/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparky1505/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparky1505/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sparky1505/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sparky1505/Leetcode/tree/master/0189-rotate-array) |
@@ -178,6 +179,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparky1505/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
