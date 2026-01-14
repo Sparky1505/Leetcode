@@ -7,10 +7,10 @@ class Solution {
 		HashSet<Integer> set1= new HashSet<>();
 		for(int i =0;i<n;i++) {
 			int num = nums[i];
+			if(set1.contains(num)) {
+				return true;
+			}
 			set1.add(num);
-		}
-		if(n!=set1.size()) {
-			return true;
 		}
 
 		return false;
