@@ -49,6 +49,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [1950-sign-of-the-product-of-an-array](https://github.com/Sparky1505/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sparky1505/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2678-number-of-senior-citizens](https://github.com/Sparky1505/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Sparky1505/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -67,6 +68,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Sparky1505/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sparky1505/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +146,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0977-squares-of-a-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sparky1505/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -203,4 +206,8 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sparky1505/Leetcode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
