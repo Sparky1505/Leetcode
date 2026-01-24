@@ -52,6 +52,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2678-number-of-senior-citizens](https://github.com/Sparky1505/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/Sparky1505/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sparky1505/Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [1929-concatenation-of-array](https://github.com/Sparky1505/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Sparky1505/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Sparky1505/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sparky1505/Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -210,4 +212,5 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sparky1505/Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
