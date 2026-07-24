@@ -1,24 +1,22 @@
 class Solution {
     public boolean isPalindrome(int x) {
 
-       int original =x;
-       int rev=0;
+        if(x<0){
+            return false;
+        }
+        String xString = String.valueOf(x);
+        int n = xString.length();
 
-
-       if(x<0){
-        return false;
-       }
-
-
-       while(original!=0){
-        int rem = original%10;
-        original/=10;
-        rev=rev*10+rem;
-       }
-
-       if(rev == x){
+        int left =0;
+        int right =n-1;
+        while(left<right){
+            if(xString.charAt(left)!=xString.charAt(right)){
+                return false;
+            }
+            left++;
+            right--;
+        }
         return true;
-       }
-       return false;
+        
     }
 }
