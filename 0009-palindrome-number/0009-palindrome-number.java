@@ -7,6 +7,7 @@ class Solution {
         String xString = String.valueOf(x);
         int n = xString.length();
 
+
         int left =0;
         int right =n-1;
         while(left<right){
